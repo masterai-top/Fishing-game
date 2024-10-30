@@ -3,7 +3,7 @@
 
 捕鱼游戏代码，多种不同模式和皮肤的捕鱼全套资源。数值文案以及美术，运营后台全套。
 
-![x1](https://github.com/user-attachments/assets/a61b810d-9d18-40d4-b145-9915b5447bc0)
+
 ![x1_2](https://github.com/user-attachments/assets/04930bd7-be87-4005-b2f4-3d1c343f31f8)
 ![x11](https://github.com/user-attachments/assets/58e7fcf0-f294-44e2-9ea8-dd2e01389c2e)
 
