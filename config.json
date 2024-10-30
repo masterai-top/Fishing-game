@@ -1,0 +1,49 @@
+{
+    "init_cfg":{
+       "isLandscape": true,
+       "isWindowTop": false,
+       "name": "Hall",
+       "width": 960,
+       "height": 540,
+       "entry": "src/main.lua",
+       "consolePort": 6050,
+       "uploadPort": 6060
+    },
+    "simulator_screen_size": [
+        {
+            "title": "iPhone 5 (1136x640)",
+            "width": 1136,
+            "height": 640
+        },
+        {
+            "title": "iPhone X (1/3)",
+            "width": 812,
+            "height": 375
+        },
+        {
+            "title": "iPad (1024x768)",
+            "width": 1024,
+            "height": 768
+        },
+        {
+            "title": "Android (854x480)",
+            "width": 854,
+            "height": 480
+        },
+        {
+            "title": "Android (1280x720)",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "title": "Android (3/4)",
+            "width": 960,
+            "height": 540
+        },
+        {
+            "title": "Android (小米Mix2 1/2)",
+            "width": 1080,
+            "height": 540
+        }
+    ]
+}
